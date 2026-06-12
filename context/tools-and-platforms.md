@@ -9,8 +9,8 @@ Configure this file before running `/salesforce-release-notes`. The skill reads 
 <!-- List every Salesforce product your client has licensed. Include the org instance ID if known.
      The skill will produce a full table entry for every release note across these products. -->
 
-- Marketing Cloud Engagement — instance: [e.g. DB50260]
-- Data Cloud — instance: [e.g. SWE62]
+- Marketing Cloud Engagement — instance:
+- Data Cloud — instance:
 
 <!-- Common additions:
 - Marketing Cloud Advanced (MC Next)
