@@ -1,0 +1,11 @@
+{
+  "name": "sf-release-notes",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "install:browsers": "npx playwright install chromium"
+  },
+  "dependencies": {
+    "playwright": "^1.44.0"
+  }
+}
